@@ -1,34 +1,3 @@
-<!doctype>
-<HTML>
-  <head>
-     <meta charset="utf-8">
-     <title>How to make wireless earphones</title>
-     <style>
-       body {
-         background-color:#83d;
-         border: 10px ridge;
-         padding: 10px;
-         color:gold;
-         }
-       h1 {
-        font-family:fantasy;
-        text-align:center;
-        Border-top: 2px solid;
-        Border-bottom: 2px solid ;
-        color:gold;
-       }
-       h2 {
-         font-family:verdana;
-         }
-         #link {
-           color:blue;
-           }
-
-     </style>
-   </head>
-   <body>
-   <audio>Classic.mp3</audio>
-   <button>About</button>
 <h1>How make Airpods</h1>
      <p>Wireless Earphones are a very good device accessory since you can be moving at the same time. This way I am telling you is a very simple way to make your own DIY Airpods
         <ul>
