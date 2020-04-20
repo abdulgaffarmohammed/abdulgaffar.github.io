@@ -1,0 +1,67 @@
+<!doctype>
+<HTML>
+  <head>
+     <meta charset="utf-8">
+     <title>How to make wireless earphones</title>
+     <style>
+       body {
+         background-color:#83d;
+         border: 10px ridge;
+         padding: 10px;
+         color:gold;
+         }
+       h1 {
+        font-family:fantasy;
+        text-align:center;
+        Border-top: 2px solid;
+        Border-bottom: 2px solid ;
+        color:gold;
+       }
+       h2 {
+         font-family:verdana;
+         }
+         #link {
+           color:blue;
+           }
+
+     </style>
+   </head>
+   <body>
+   <audio>Classic.mp3</audio>
+   <button>About</button>
+<h1>How make Airpods</h1>
+     <p>Wireless Earphones are a very good device accessory since you can be moving at the same time. This way I am telling you is a very simple way to make your own DIY Airpods
+        <ul>
+          <li>Old Earphones</li>
+          <li>Old TV remote</li>
+          <li>Scissors or wire cutter</li>
+          <li>Soldering kit</li>
+          <li>Hot glue gun</li>
+          <li>1 LED light</li>
+        </ul>
+       <ol>
+          <h2>Get old earphones </h2>
+          <li>Remember to get damaged and old earphones as new ones may come handy sometimes</li>
+          <h2> Cut the earphones</h2>
+          <li>Cut the earphones from the top leaving the earpiece and 1cm of wire</li>
+          <h2>Get an old television remote</h2>
+          <li>Then open the remote and then look at the top, get that sensor</li>
+          <h2>Get the other bit of wire previously cutted</h2>
+          <li>From that wire get the piece that is used to connect the earphones to the phone </li>
+          <h2>Attach the sensor to the piece we previously cutted</h2>
+          <li>Attach the previously cutted piece to the sensor so that it can detect the earpiece</li>
+          <h2>Get 2 white LED lights</h2>
+          <li>Attach 1 LED light to the end of one earpiece and the other to the other earpiece </li>
+          <h2>Customizing the Airpods</h2>
+          <li>Push the LED lights and sensor in so it is in place; you may use a hot glue gun</li>
+          <h2>Test the Airpods</h2>
+          <li>The connection piece is to be connected to the phone while you wear the earphones on your ear</li>
+          <h2>Troubleshooting</h2>
+          <li>If the wireless earphones are not working try soldering the wires or see if the hot glue gun is insulating the wire</li>
+          <h2>The case</h2>
+          <li>After all the steps are done for the case you can get any small plastic box and put cotton in it leaving the only space for the Airpods </li>
+       </ol>
+     </p>
+     <a id=link href="https://mail.google.com/mail/u/0/#inbox">Email abdulgaffarm06@gmail.com for any inquiries</a>
+   </body
+</HTML>
